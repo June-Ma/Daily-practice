@@ -6,4 +6,4 @@ It will contain **140 small practice programs**, each tackling a different conce
 
 Think of it as a growing library of mini–programs, built step by step while I sharpen my coding skills.  
 
-Nothing too fancy — just me practising, learning, and sometimes breaking things along the way 😌
+Nothing too fancy — just me practising, learning, and sometimes breaking things along the way 😌😌
